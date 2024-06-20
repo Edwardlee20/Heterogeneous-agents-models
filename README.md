@@ -3,4 +3,5 @@ I am a PhD candidate in economics. My research interests are macroeconomics, esp
 
 # Some resources
 ## Personal website
-1. [Ben Moll](https://benjaminmoll.com/)
+1. [Ben Moll](https://benjaminmoll.com/) (especially in continuous time)
+2. [Florin O. Bilbiie](https://sites.google.com/site/florinbilbiie/home) (especially in discrete time and analytical)
