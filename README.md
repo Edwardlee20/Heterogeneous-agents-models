@@ -6,7 +6,9 @@ I am a PhD candidate in economics. My research interests are macroeconomics, esp
 1. [Jesus's slides about macro](https://www.sas.upenn.edu/~jesusfv/teaching.html)
 2. [Auclert & Straub HA workshop Gothe](https://github.com/shade-econ/goethe-workshop-2024/)
 3. [Auclert & Straub HA workshop NBER](https://github.com/shade-econ/nber-workshop-2023)
-4. 
+4. [DSE: DL for Dynamic Structural Econometrics](https://dseconf.org/dse2023)
+
+
 ## Professors' website
 1. [Ben Moll](https://benjaminmoll.com/) : especially in continuous time
 2. [Florin O. Bilbiie](https://sites.google.com/site/florinbilbiie/home) : especially in discrete time and analytical
